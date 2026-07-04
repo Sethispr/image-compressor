@@ -21,7 +21,7 @@
     "@tailwindcss/vite": "^4.2.1",
     "@types/dompurify": "^3.2.0",
     "@types/node": "^25.5.0",
-    "@vitejs/plugin-react": "^5.1.4",
+    "@vitejs/plugin-react": "^6.0.1",
     "gts": "^7.0.0",
     "tailwindcss": "^4.2.1",
     "typescript": "^5.2.0",
